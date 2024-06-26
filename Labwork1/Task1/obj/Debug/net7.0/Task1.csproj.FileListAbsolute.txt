@@ -1,0 +1,15 @@
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+D:\Программирование\МДК 01.01\Labwork1\Task1\bin\Debug\net7.0\Task1.exe
+D:\Программирование\МДК 01.01\Labwork1\Task1\bin\Debug\net7.0\Task1.deps.json
+D:\Программирование\МДК 01.01\Labwork1\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+D:\Программирование\МДК 01.01\Labwork1\Task1\bin\Debug\net7.0\Task1.dll
+D:\Программирование\МДК 01.01\Labwork1\Task1\bin\Debug\net7.0\Task1.pdb
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\Task1.dll
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\refint\Task1.dll
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\Task1.pdb
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+D:\Программирование\МДК 01.01\Labwork1\Task1\obj\Debug\net7.0\ref\Task1.dll
