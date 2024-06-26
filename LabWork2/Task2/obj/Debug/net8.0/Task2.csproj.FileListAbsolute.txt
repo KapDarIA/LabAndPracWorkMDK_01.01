@@ -1,0 +1,14 @@
+D:\Trash\visual studio\LabWork2\Task2\bin\Debug\net8.0\Task2.exe
+D:\Trash\visual studio\LabWork2\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Trash\visual studio\LabWork2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Trash\visual studio\LabWork2\Task2\bin\Debug\net8.0\Task2.dll
+D:\Trash\visual studio\LabWork2\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\Task2.dll
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Trash\visual studio\LabWork2\Task2\obj\Debug\net8.0\ref\Task2.dll
