@@ -1,0 +1,115 @@
+C:\temp\ispp21\LabWork28\bin\Debug\net8.0-windows\LabWork28.exe
+C:\temp\ispp21\LabWork28\bin\Debug\net8.0-windows\LabWork28.deps.json
+C:\temp\ispp21\LabWork28\bin\Debug\net8.0-windows\LabWork28.runtimeconfig.json
+C:\temp\ispp21\LabWork28\bin\Debug\net8.0-windows\LabWork28.dll
+C:\temp\ispp21\LabWork28\bin\Debug\net8.0-windows\LabWork28.pdb
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28_Content.g.cs
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28_MarkupCompile.cache
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28_MarkupCompile.lref
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28.g.resources
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28.AssemblyInfoInputs.cache
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28.AssemblyInfo.cs
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28.csproj.CoreCompileInputs.cache
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28.dll
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\refint\LabWork28.dll
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28.pdb
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\LabWork28.genruntimeconfig.cache
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\ref\LabWork28.dll
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\Windows\AuthorizationWindow.g.cs
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\Windows\AuthorizationWindow.baml
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\Windows\StyleWindow.g.cs
+C:\temp\ispp21\LabWork28\obj\Debug\net8.0-windows\Windows\StyleWindow.baml
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\bin\Debug\net8.0-windows\LabWork28.exe
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\bin\Debug\net8.0-windows\LabWork28.deps.json
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\bin\Debug\net8.0-windows\LabWork28.runtimeconfig.json
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\bin\Debug\net8.0-windows\LabWork28.dll
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\bin\Debug\net8.0-windows\LabWork28.pdb
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\Windows\AuthorizationWindow.g.cs
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\Windows\ControlWindow.g.cs
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\Windows\StyleWindow.g.cs
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28_Content.g.cs
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28_MarkupCompile.cache
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28_MarkupCompile.lref
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\App.baml
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\Windows\AuthorizationWindow.baml
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\Windows\ControlWindow.baml
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\Windows\StyleWindow.baml
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28.g.resources
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28.AssemblyInfoInputs.cache
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28.AssemblyInfo.cs
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28.dll
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\refint\LabWork28.dll
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28.pdb
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\LabWork28.genruntimeconfig.cache
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\ref\LabWork28.dll
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\Themes\DarkTheme.baml
+C:\Users\Angel\OneDrive\Рабочий стол\LabWork28\obj\Debug\net8.0-windows\Themes\LightTheme.baml
+D:\Trash\visual studio\LabWork28\bin\Debug\net8.0-windows\LabWork28.exe
+D:\Trash\visual studio\LabWork28\bin\Debug\net8.0-windows\LabWork28.deps.json
+D:\Trash\visual studio\LabWork28\bin\Debug\net8.0-windows\LabWork28.runtimeconfig.json
+D:\Trash\visual studio\LabWork28\bin\Debug\net8.0-windows\LabWork28.dll
+D:\Trash\visual studio\LabWork28\bin\Debug\net8.0-windows\LabWork28.pdb
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\Themes\DarkTheme.baml
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\Themes\LightTheme.baml
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\Windows\AuthorizationWindow.g.cs
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\Windows\ControlWindow.g.cs
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\Windows\StyleWindow.g.cs
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\App.g.cs
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28_Content.g.cs
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28_MarkupCompile.cache
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28_MarkupCompile.lref
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\App.baml
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\Windows\AuthorizationWindow.baml
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\Windows\ControlWindow.baml
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\Windows\StyleWindow.baml
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28.g.resources
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28.AssemblyInfoInputs.cache
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28.AssemblyInfo.cs
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28.csproj.CoreCompileInputs.cache
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28.dll
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\refint\LabWork28.dll
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28.pdb
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\LabWork28.genruntimeconfig.cache
+D:\Trash\visual studio\LabWork28\obj\Debug\net8.0-windows\ref\LabWork28.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\bin\Debug\net8.0-windows\LabWork28.exe
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\bin\Debug\net8.0-windows\LabWork28.deps.json
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\bin\Debug\net8.0-windows\LabWork28.runtimeconfig.json
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\bin\Debug\net8.0-windows\LabWork28.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\bin\Debug\net8.0-windows\LabWork28.pdb
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\Themes\DarkTheme.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\Themes\LightTheme.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\Windows\AuthorizationWindow.g.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\Windows\ControlWindow.g.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\Windows\StyleWindow.g.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28_Content.g.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28_MarkupCompile.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28_MarkupCompile.lref
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\App.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\Windows\AuthorizationWindow.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\Windows\ControlWindow.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\Windows\StyleWindow.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28.g.resources
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28.AssemblyInfoInputs.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28.AssemblyInfo.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28.csproj.CoreCompileInputs.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\refint\LabWork28.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28.pdb
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\LabWork28.genruntimeconfig.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork28\obj\Debug\net8.0-windows\ref\LabWork28.dll
