@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yeUv0R8p0C4WWfhMMMSf9zroHiDnQUo0oMjUtkhZ0rxlWEx5QsrZkWBzjdq2cr25Wg8Ec3iNgzFJNAMO+0WLxw==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ispp21\\МДК 01.01\\LabWorks\\LabWork35\\Task4\\Task4.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Вы выполняете операцию ''restore'' с источником ''HTTP'', ''http://nuget.iis.softsol.local/nuget''. Доступ без HTTPS будет удален в будущей версии. Рассмотрите возможность перехода на источник ''HTTPS''."
+    }
+  ]
+}
