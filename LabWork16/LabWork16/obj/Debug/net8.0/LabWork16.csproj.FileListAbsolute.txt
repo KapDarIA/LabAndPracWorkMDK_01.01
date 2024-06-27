@@ -1,0 +1,14 @@
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\bin\Debug\net8.0\LabWork16.exe
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\bin\Debug\net8.0\LabWork16.deps.json
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\bin\Debug\net8.0\LabWork16.runtimeconfig.json
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\bin\Debug\net8.0\LabWork16.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\bin\Debug\net8.0\LabWork16.pdb
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\LabWork16.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\LabWork16.AssemblyInfoInputs.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\LabWork16.AssemblyInfo.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\LabWork16.csproj.CoreCompileInputs.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\LabWork16.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\refint\LabWork16.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\LabWork16.pdb
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\LabWork16.genruntimeconfig.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Task1\LabWork16\obj\Debug\net8.0\ref\LabWork16.dll
