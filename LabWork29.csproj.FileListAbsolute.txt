@@ -1,0 +1,42 @@
+D:\Trash\visual studio\LabWork29\bin\Debug\net8.0-windows\LabWork29.exe
+D:\Trash\visual studio\LabWork29\bin\Debug\net8.0-windows\LabWork29.deps.json
+D:\Trash\visual studio\LabWork29\bin\Debug\net8.0-windows\LabWork29.runtimeconfig.json
+D:\Trash\visual studio\LabWork29\bin\Debug\net8.0-windows\LabWork29.dll
+D:\Trash\visual studio\LabWork29\bin\Debug\net8.0-windows\LabWork29.pdb
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\App.g.cs
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29_MarkupCompile.cache
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29_MarkupCompile.lref
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29.g.resources
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29.AssemblyInfoInputs.cache
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29.AssemblyInfo.cs
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29.csproj.CoreCompileInputs.cache
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29.dll
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\refint\LabWork29.dll
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29.pdb
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\LabWork29.genruntimeconfig.cache
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\ref\LabWork29.dll
+D:\Trash\visual studio\LabWork29\obj\Debug\net8.0-windows\App.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\bin\Debug\net8.0-windows\LabWork29.exe
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\bin\Debug\net8.0-windows\LabWork29.deps.json
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\bin\Debug\net8.0-windows\LabWork29.runtimeconfig.json
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\bin\Debug\net8.0-windows\LabWork29.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\bin\Debug\net8.0-windows\LabWork29.pdb
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29_MarkupCompile.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29_MarkupCompile.lref
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\App.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29.g.resources
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29.AssemblyInfoInputs.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29.AssemblyInfo.cs
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29.csproj.CoreCompileInputs.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\refint\LabWork29.dll
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29.pdb
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\LabWork29.genruntimeconfig.cache
+C:\temp\ispp21\МДК 01.01\LabWorks\Мои недоделки\LabWork29\obj\Debug\net8.0-windows\ref\LabWork29.dll
