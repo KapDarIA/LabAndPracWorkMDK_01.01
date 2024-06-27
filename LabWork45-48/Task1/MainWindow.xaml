@@ -1,0 +1,108 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="650">
+    <StackPanel>
+        <Label x:Name="connectionLabel" Background="#FFB9C5E8"/>
+        <DockPanel >
+            <Label Content ="Введите текст SQL-команды:" VerticalAlignment="Center"/>
+            <TextBox x:Name="sqlCommandTextBox" Text="SELECT Name FROM Games" VerticalAlignment="Center"/>
+        </DockPanel>
+        <DockPanel>
+            <Label Content="LabWorks45: "/>
+        </DockPanel>
+        <DockPanel>
+            <StackPanel Orientation="Vertical" Width="100" HorizontalAlignment="Left">
+                <Button x:Name="complateTask2Button" Content="Задание 2" Click="ComplateTask2Button_Click"/>
+                <Button x:Name="complateTask3Button" Content="Задание 3" Click="ComplateTask3Button_Click"/>
+                <Button x:Name="complateTask4Button" Content="Задание 4" Click="ComplateTask4Button_Click"/>
+            </StackPanel>
+        </DockPanel>
+        <TextBlock x:Name="infoTextBlock" TextWrapping="Wrap"/>
+        <DockPanel>
+            <Label Content="LabWorks46: "/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="complateButton1" Content="Задание 1" Click="ComplateButton1_Click"/>
+            <Label x:Name="stringLabel" Content ="Количество измененых строк: "/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="complateButton2" Content="Задание 2" Click="ComplateButton2_Click"/>
+            <Label Content="Введите ID книги: "/>
+            <TextBox x:Name="idTextBox1" Width="50" />
+            <Label Content="Введите новую цену: "/>
+            <TextBox x:Name="priceTextBox1" Width="50" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="complateButton3" Content="Задание 3" Click="ComplateButton3_Click"/>
+            <Label Content="Введите имя таблицы, которую хотите вывести: "/>
+            <TextBox x:Name="tableTextBox1" Width="150" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="complateButton4" Content="Задание 4" Click="ComplateButton4_Click"/>
+            <Button x:Name="saveButton" Content="Сохранить таблицу" Click="SaveButton_Click"/>
+            <Label Content="Введите имя таблицы: "/>
+            <TextBox x:Name="tableTextBox2" Width="150" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Label Content="LabWorks47: "/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="task1Button" Content="Задание 1" Click="Task1Button_Click"/>
+            <Label Content="Введите цену:"/>
+            <TextBox x:Name="priceTextBox2" Width="50" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="task2Button" Content="Задание 2" Click="Task2Button_Click" Width="59" Height="25" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="task3Button" Content="Задание 3" Click="Task3Button_Click"/>
+            <Label Content="Введите жанр:"/>
+            <TextBox x:Name="genreTextBox" Width="135"/>
+            <Label Content="Введите цену:"/>
+            <TextBox x:Name="priceTextBox3" Width="50" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="task4Button" Content="Задание 4" Click="Task4Button_Click"/>
+            <Label  Content="Введите id:"/>
+            <TextBox x:Name="idTextBox2" Width="50"/>
+            <Label  Content="Введите цену:"/>
+            <TextBox x:Name="priceTextBox4" Width="50"/>
+            <Label  Content="Введите название:"/>
+            <TextBox x:Name="titleTextBox" Width="170" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Label Content="LabWorks48: "/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="task5Button" Content="Задание 2" Click="Task5Button_Click"/>
+            <Label  Content="Введите фамилию:"/>
+            <TextBox x:Name="surnameTextBox1" Width="100"/>
+            <Label  Content="Введите имя:"/>
+            <TextBox x:Name="nameTextBox1" Width="100"/>
+            <Label  Content="Введите страну:"/>
+            <TextBox x:Name="countryTextBox1" Width="100" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="task6Button" Content="Задание 3" Click="Task6Button_Click"/>
+            <Label  Content="Введите фамилию:"/>
+            <TextBox x:Name="surnameTextBox2" Width="100"/>
+            <Label  Content="Введите имя:"/>
+            <TextBox x:Name="nameTextBox2" Width="100"/>
+            <Label  Content="Введите страну:"/>
+            <TextBox x:Name="countryTextBox2" Width="100" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DockPanel>
+            <Button x:Name="task7Button" Content="Задание 4" Click="Task7Button_Click"/>
+            <Label  Content="Введите начальную цену:"/>
+            <TextBox x:Name="firstPriceTextBox" Width="100"/>
+            <Label  Content="Введите конечную цену:"/>
+            <TextBox x:Name="lastPriceTextBox" Width="100" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <DataGrid x:Name="infoDataGrid" Background="#FFF6F8FF"/>
+    </StackPanel>
+</Window>
