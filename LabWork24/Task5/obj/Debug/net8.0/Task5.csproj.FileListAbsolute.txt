@@ -1,0 +1,14 @@
+D:\Trash\visual studio\LabWork24\Task5\bin\Debug\net8.0\Task5.exe
+D:\Trash\visual studio\LabWork24\Task5\bin\Debug\net8.0\Task5.deps.json
+D:\Trash\visual studio\LabWork24\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+D:\Trash\visual studio\LabWork24\Task5\bin\Debug\net8.0\Task5.dll
+D:\Trash\visual studio\LabWork24\Task5\bin\Debug\net8.0\Task5.pdb
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\Task5.dll
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\refint\Task5.dll
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\Task5.pdb
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+D:\Trash\visual studio\LabWork24\Task5\obj\Debug\net8.0\ref\Task5.dll
