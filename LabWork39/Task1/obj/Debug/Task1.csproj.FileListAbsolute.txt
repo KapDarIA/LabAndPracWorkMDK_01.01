@@ -1,0 +1,11 @@
+C:\temp\LabWork39\Task1\bin\Debug\Task1.exe.config
+C:\temp\LabWork39\Task1\bin\Debug\Task1.exe
+C:\temp\LabWork39\Task1\bin\Debug\Task1.pdb
+C:\temp\LabWork39\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\temp\LabWork39\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+C:\temp\LabWork39\Task1\obj\Debug\Task1.Form1.resources
+C:\temp\LabWork39\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\temp\LabWork39\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\temp\LabWork39\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\temp\LabWork39\Task1\obj\Debug\Task1.exe
+C:\temp\LabWork39\Task1\obj\Debug\Task1.pdb
